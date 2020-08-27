@@ -10,7 +10,7 @@
             "links": [
                 {
                     "title": "View online",
-                    "link": "#"
+                    "link": "http://trackcarbon.online/"
                 },
                 {
                     "title": "Github (UI)",
@@ -71,7 +71,7 @@
             "links": [
                 {
                     "title": "View online",
-                    "link": "www.arvindtix.xyz"
+                    "link": "http://www.arvindtix.xyz/"
                 },
                 {
                     "title": "Github",
@@ -88,10 +88,6 @@
                 "Technologies used: React, Express, Node.js, Node.js, MongoDB, Bootstrap, external APIs, Heroku, Git"
             ],
             "links": [
-                {
-                    "title": "View online",
-                    "link": "#"
-                },
                 {
                     "title": "Github (UI)",
                     "link": "https://github.com/nikhilnair23/soccer-website"
